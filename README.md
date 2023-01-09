@@ -2,6 +2,6 @@
 
 ## Details
 
-Author: [James Cole](https://jcole.net/)
-Date: 1/09/23
+Author: [James Cole](https://jcole.net/)  
+Date: 1/09/23  
 License: None
